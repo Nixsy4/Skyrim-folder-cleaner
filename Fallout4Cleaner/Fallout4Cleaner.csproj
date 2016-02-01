@@ -7,8 +7,8 @@
     <ProjectGuid>{D4CC5DF7-C061-4CD2-8585-C988D2936040}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Fallout4Cleaner</RootNamespace>
-    <AssemblyName>Fallout4Cleaner</AssemblyName>
+    <RootNamespace>SkyrimFolderCleaner</RootNamespace>
+    <AssemblyName>SkyrimFolderCleaner</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -63,6 +63,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

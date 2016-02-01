@@ -69,10 +69,9 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(9, 47);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(403, 13);
+            this.label1.Size = new System.Drawing.Size(395, 13);
             this.label1.TabIndex = 3;
-            this.label1.Text = "Only select your fallout 4 directory. eg. D:\\SteamLibrary\\steamapps\\common\\Skyrim" +
-    "";
+            this.label1.Text = "Only select your skyrim directory. eg. D:\\SteamLibrary\\steamapps\\common\\Skyrim";
             // 
             // label2
             // 
